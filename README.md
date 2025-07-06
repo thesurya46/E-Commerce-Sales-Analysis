@@ -146,5 +146,10 @@ Segment: Consumer, Corporate, Home Office
 ✔️ Practical use of Excel functions for business analytics
 ✔️ Built executive-friendly Excel reporting tools
 
+# 📫 Contact
+**Created by Suryasnata Panigrahi**
+📧 Email: work.suryasnata@gmail.com
+
+🔁 LinkedIn: [https://www.linkedin.com/in/suryasnata-panigrahi)
 
 
